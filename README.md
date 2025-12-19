@@ -16,4 +16,4 @@ This project is an end-to-end data pipeline and analytics solution built with **
 
 ## Dashboard
 
-![Overview Dashbord](images/Overview Dashbord.png)
+![Overview Dashbord](images/Overview_Dashbord.png)
